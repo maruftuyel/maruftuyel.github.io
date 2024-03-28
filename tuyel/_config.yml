@@ -27,7 +27,7 @@ Liudmyla est originaire d’Ukraine. C’est ma femme. Je l’aime tellement. En
 baseurl: "/tuyel" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MARUF TUYEL
-_username:  maruftuyel..io
+_username:  maruftuyel.io 
 
 # Build settings
 theme: minima
