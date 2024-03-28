@@ -17,17 +17,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-
-title: MON AMOUR EST ORIGINAIRE D’UKRAINE.
+title: TU ME MANQUES GRETA CAR GRETA EST SANGLANT
 email: maruf.tuyel@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  
-Liudmyla est originaire d’Ukraine. C’est ma femme. Je l’aime tellement. En octobre dernier, j’ai vraiment embrassé sur son chèque. En gros, elle me manque tellement ! Je désire l’épouser. Mais malheureusement, elle m’a fait pleurer. C’est pourquoi je me sens si brisé à propos d’elle. Même elle n’est pas vraiment aussi efficace en Ukraine. Elle quitta Ukrane. À l’heure actuelle, l’Ukraine est un pays d’effusion de sang. Je pense qu’elle a pris la ferme décision de ne pas retourner en Ukraine. C’est pour ça qu’elle est si gentille avec moi. Je me sens vraiment hypnotisée quand je me souviens d’elle.  
+  MON AMOUR VIENT D'UKRAINE.Elle est originaire d’Ukraine.C’est ma femme. Je l’aime tellement. En octobre dernier, j’ai vraiment embrassé sur sa joue. En gros, elle me manque tellement ! Je désire l’épouser. Mais malheureusement, elle m’a fait pleurer. C’est pourquoi je me sens si brisé à propos d’elle. Même elle n’est pas vraiment aussi efficace en Ukraine. Elle quitta Ukrane. À l’heure actuelle, l’Ukraine est un pays d’effusion de sang. Je pense qu’elle a pris la ferme décision de ne pas retourner en Ukraine. Elle m’a vraiment aidé à ouvrir les yeux car j’étais complètement incapable de parler français. Elle m’a beaucoup insulté. À Greta, tout le monde m’insultait trop ! Alors j’ai relevé un défi. Je dois faire quelque chose qui en vaut la peine. C’était ma vision d’apprendre le français et de parler couramment le français aussi. Enfin, je parle français et j’améliore mon français de jour en jour. Félicitations Liudmyla !
 baseurl: "/tuyel" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MARUF TUYEL
-_username:  maruftuyel.io 
+_username:  maruftuyel..io 
 
 # Build settings
 theme: minima
