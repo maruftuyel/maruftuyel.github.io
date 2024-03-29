@@ -1,0 +1,57 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: MARUF AIME ÊTRE DYNAMIQUE !
+email: maruf.tuyel@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Software Science And Technoloty: To develop Software we need to  build regorous methods and tools for the design and development of complex software as well as for the modeling and analysis of algorithmic problems from various applications domains.The Software Science and Technology (STL) program aims to train specialists in software development, with a solid foundation in programming languages and alogrithmic methods.It is aimed at students interested in both the fundamental and technological aspects of computer science. বাংলাদেশের ভবিষ্যত প্রজন্ম জেনে নেবে কিভাবে আইটি খাতে অগ্রসর হতে হয় তবে আমার জানামতে বাংলাদেশ আইটি ও কম্পিউটার সাইন্স এর উপড় চরম গুরুত্ব দিয়েছে তা বাংলাদেশের আলোকিত সিদ্বান্ত এবং এটা মূল্য়ায়ন করার সময় অতি নিকটে                                                                                                                                                                    
+
+
+
+
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: MARUF TUYEL
+_username:  maruftuyel..io 
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
