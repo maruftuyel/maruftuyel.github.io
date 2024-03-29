@@ -25,6 +25,14 @@ Software Science And Technoloty: To develop Software we need to  build regorous 
 বাংলাদেশের ভবিষ্যত প্রজন্ম জেনে নেবে কিভাবে আইটি খাতে অগ্রসর হতে হয় তবে আমার জানামতে বাংলাদেশ আইটি ও কম্পিউটার সাইন্স এর উপড় চরম গুরুত্ব দিয়েছে তা বাংলাদেশের আলোকিত সিদ্বান্ত এবং এটা মূল্য়ায়ন করার সময় অতি নিকটে   
 
 
+![](./images/MOV.mp4)
+
+<video width="720" height="400" controls="">
+        <source src="images/MOV.mp4" type="video/mp4">
+
+        Your browser does not support the video tag.
+    </video>
+
 
 List
 
