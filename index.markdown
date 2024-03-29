@@ -10,10 +10,15 @@ Markdown
 [Link](https://www.markdownguide.org/cheat-sheet/)
 
 
+![Greta](./images/done.jpg)
+
+
 # SOFTWARE SCIENCE AND TECHNOLOGY
 
 
 Software Science And Technoloty: To develop Software we need to  build regorous methods and tools for the design and development of complex software as well as for the modeling and analysis of algorithmic problems from various applications domains.The Software Science and Technology (STL) program aims to train specialists in software development, with a solid foundation in programming languages and alogrithmic methods.It is aimed at students interested in both the fundamental and technological aspects of computer science.
+
+
   
  ## বাংলাদেশে আইটি খাত
 
@@ -46,7 +51,7 @@ print("Hello World")
 
 
 
-![Comment on imagee](./media/)
+![Comment on imagee](./images/fourstar.jpg)
 
 ## Live is nice 
 
