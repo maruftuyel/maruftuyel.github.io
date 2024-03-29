@@ -20,11 +20,11 @@ Software Science And Technoloty: To develop Software we need to  build regorous 
 
 
   
- *বাংলাদেশে আইটি খাত
+ ## বাংলাদেশে আইটি খাত
 
 বাংলাদেশের ভবিষ্যত প্রজন্ম জেনে নেবে কিভাবে আইটি খাতে অগ্রসর হতে হয় তবে আমার জানামতে বাংলাদেশ আইটি ও কম্পিউটার সাইন্স এর উপড় চরম গুরুত্ব দিয়েছে তা বাংলাদেশের আলোকিত সিদ্বান্ত এবং এটা মূল্য়ায়ন করার সময় অতি নিকটে   
 
-# In Sweden#
+## In Sweden
 ![](./images/MOV.mp4)
 
 <video width="720" height="400" controls="">
@@ -36,13 +36,18 @@ Software Science And Technoloty: To develop Software we need to  build regorous 
 
 List
 
-- Hello
-- Goodbye
+- Liste Un
+- Liste Deux 
+- Liste Trois
 
 Numbered list
 
-1. Hello
-2. Goodbye
+1. Un 
+2. Deux 
+3. Trois
+4. Quatre
+5. Cinq
+6. Six
 
 ```python
 print("Hello World")
