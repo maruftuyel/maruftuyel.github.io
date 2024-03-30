@@ -76,6 +76,26 @@ print("Hello World")
 
 ```
 
+# Deux Bonnes Réponses
+
+1.Un homme est assis dans un train, une pipe à la bouche. 
+2.Un contrôleur lui dit:
+-Vous ne pouvez pas fumer ici!
+3- Je ne fume  pas, répond l’homme calmement.
+4.-Mais vous avez une pipe à la bouche! S’écrie le contrôleur.
+5.D’accord. J’ai aussi des chaussures aux pieds, 
+6. Mais je ne marche pas!
+********
+7. Visitant la Sorbonne, un touriste voit une bibliothèque très impressionnante.
+8. Au-dessus de la porte est inscrit:
+“Bibliothèque Félix Fournier”.
+9. Je ne connais pas cet auteur: qu’est-ce qu’il a écrit?
+10.-Son guide sourit et lui répond:
+-Un gros chèque!
+
+
+
+
 # PREMIER RUBRIQUE
 Tout d'abord, nous avons besoin d'alphabets et de vocabulaire pour apprendre la française.
 
