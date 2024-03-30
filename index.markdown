@@ -10,7 +10,7 @@ Markdown
 [Link](https://www.markdownguide.org/cheat-sheet/)
 
 
-# À Greta
+# À GRETA
 
 ![Greta](./images/done.jpg)
 
