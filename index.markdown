@@ -10,21 +10,40 @@ Markdown
 [Link](https://www.markdownguide.org/cheat-sheet/)
 
 
+# À Greta
+
 ![Greta](./images/done.jpg)
 
 
-# SOFTWARE SCIENCE AND TECHNOLOGY
 
 
-Software Science And Technoloty: To develop Software we need to  build regorous methods and tools for the design and development of complex software as well as for the modeling and analysis of algorithmic problems from various applications domains.The Software Science and Technology (STL) program aims to train specialists in software development, with a solid foundation in programming languages and alogrithmic methods.It is aimed at students interested in both the fundamental and technological aspects of computer science.
+# Le Logiciel
+Le programme Software Science and Technology (STL) vise à former des spécialistes en développement logiciel, avec des bases solides en langages de programmation et en méthodes algorithmiques.
+
+Il s’adresse aux étudiants intéressés à la fois par les aspects fondamentaux et technologiques de l’informatique.
+
+
+
+
+
+
+
+
+
+
+# La formation d'un logiciel
+
+La formation est axée sur l’apprentissage de méthodes et d’outils rigoureux pour la conception et le développement de logiciels complexes, ainsi que pour la modélisation et l’analyse de problèmes algorithmiques issus de divers domaines d’application.
+
+
 
 
   
- ## বাংলাদেশে আইটি খাত
+ *বাংলাদেশে আইটি খাত*
 
-বাংলাদেশের ভবিষ্যত প্রজন্ম জেনে নেবে কিভাবে আইটি খাতে অগ্রসর হতে হয় তবে আমার জানামতে বাংলাদেশ আইটি ও কম্পিউটার সাইন্স এর উপড় চরম গুরুত্ব দিয়েছে তা বাংলাদেশের আলোকিত সিদ্বান্ত এবং এটা মূল্য়ায়ন করার সময় অতি নিকটে   
+বাংলাদেশের ভবিষ্যত প্রজন্ম জেনে নেবে কিভাবে আইটি খাতে অগ্রসর হতে হয় তবে আমার জানামতে বাংলাদেশ আইটি ও কম্পিউটার সাইন্স এর উপড় চরম গুরুত্ব দিয়েছে তা বাংলাদেশের আলোকিত সিদ্বান্ত এবং এটা মূল্য়ায়ন করার সময় অতি নিকটে  
 
-## In Sweden
+## En Suède
 ![](./images/MOV.mp4)
 
 <video width="720" height="400" controls="">
@@ -34,11 +53,14 @@ Software Science And Technoloty: To develop Software we need to  build regorous 
     </video>
 
 
-List
+*List(Objectives of Software)*
 
-- Liste Un
-- Liste Deux 
-- Liste Trois
+- Software reliability and algorithms.
+
+- Web programming, competition and mobility.
+- Software engineering and development environments.
+
+
 
 Numbered list
 
@@ -54,22 +76,29 @@ print("Hello World")
 
 ```
 
-# First Heading 
+# PREMIER RUBRIQUE
+Tout d'abord, nous avons besoin d'alphabets et de vocabulaire pour apprendre la française.
 
-## Second Heading
-
-### Third Heading
-
-
-
+Nous pouvons commencer à écrire des mots et des petites phrases pour parler couramment la française.
+## DEUXIÈME RUBRIQUE
+Ensuite, nous devrions écouter des locuteurs natifs et de l'audio français.
 
 
+
+### TROISIÈME RUBRIQUE
+ Enfin, nous devons parler en français. Au tout début, notrela conversation pourrait comporter beaucoup d'erreurs, mais nous devons vraiment commencer à parler et à continuer. 
+
+
+
+
+
+
+
+
+# En 2011, dans mon pays.
 ![Comment on imagee](./images/fourstar.jpg)
 
-## Live is nice 
-
-Why not
 
 
-## Old Page
+
 

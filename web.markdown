@@ -4,20 +4,27 @@ title: Web
 permalink: /web/
 ---
 
-This is aboout Web Dev.
+# LEARN RUBY 
 
-Learn about [Markdown](https://www.markdownguide.org/)
-
-
-the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+*WITH THE EDGECASE RUBY KOANS* 
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+The Koans walk you along the path to enlightenment in order to learn Ruby. The goal is to learn the Ruby language, syntax, structure, and some common functions and libraries. We also teach you culture. Testing is not just something we pay lip service to, but something we live. It is essential in your quest to learn and do great things in the language.
+
+## Red, Green, Refactor
+
+In test-driven development (TDD) the mantra has always been red: write a failing test and run it, green: make the test pass, and refactor: look at the code and see if you can make it any better.
+
+With the koans, you will need to run the tests and see it fail (red), make the test pass (green), then take a moment and reflect upon the test to see what it is teaching you and improve the code to better communicate its intent (refactor).
+
+The very first time you run it you will see the following output:
+
+
+## The Koans are broken
+The koans are broken out into areas by file, hashes are covered in about_hashes.rb, modules are introduced in about_modules.rb, etc. They are presented in order in the path_to_enlightenment.rb file.
+
+Each koan builds up your knowledge of Ruby and builds upon itself. It will stop at the first place you need to correct.
+
+Some koans simply need to have the correct answer substituted for an incorrect one. Some, however, require you to supply your own answer. If you see the method __ (a double underscore) listed, it is a hint to you to supply your own code in order to make it work correctly.
+
