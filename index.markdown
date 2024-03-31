@@ -121,6 +121,17 @@ Ensuite, nous devrions écouter des locuteurs natifs et de l'audio français.
 **L’homme qui traverse la structure brisée devient un combattant, le combat doit continuer jusqu’à la fin car s’il abandonne, la lueur d’espoir est perdue et s’il continue d’essayer, l’espoir lui atteint le sommet d’or de son succès.**
 
 
+> DYNAMISM Dynamism is a general name for a group of philosophical views concerning the nature of matter. However different they may be in other respects, all these views agree in making matter consist essentially of simple and indivisible units, substances, or forces. Dynamism is sometimes used to denote systems that admit not only matter and extension, but also determinations, tendencies, and forces intrinsic and essential to matter. More properly, however, it means exclusive systems that do away with the dualism of matter and force by reducing the former to the latter
+
+
+
+
+
+
+
+
+
+
 
 
 
