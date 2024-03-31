@@ -53,8 +53,12 @@ La formation est axée sur l’apprentissage de méthodes et d’outils rigoureu
     </video>
 
 
+
+    
+
+
 # List
-**OBJECIVES OF SOFTWARE**
+**OBJECTIVES OF SOFTWARE**
 
 - Software reliability and algorithms.
 
