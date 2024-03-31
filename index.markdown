@@ -106,6 +106,11 @@ Ensuite, nous devrions écouter des locuteurs natifs et de l'audio français.
 ![Comment on imagee](./images/fourstar.jpg)
 
 
+# Compétences requises:
+
+*Dieu a donné de nombreuses bénédictions à l’homme, parmi lesquelles la technique de création de compétences est la meilleure, il n’y a personne de plus puissant que cela parce que la chose qui est utile est la compétence et cette compétence peut construire une meilleure carrière.*
+
+
 
 
 
