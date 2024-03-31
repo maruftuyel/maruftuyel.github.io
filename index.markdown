@@ -54,7 +54,7 @@ La formation est axée sur l’apprentissage de méthodes et d’outils rigoureu
 
 
 
-    
+
 
 
 # List
@@ -114,6 +114,11 @@ Ensuite, nous devrions écouter des locuteurs natifs et de l'audio français.
 # Compétences requises:
 
 **Dieu a donné de nombreuses bénédictions à l’homme, parmi lesquelles la technique de création de compétences est la meilleure, il n’y a personne de plus puissant que cela parce que la chose qui est utile est la compétence et cette compétence peut construire une meilleure carrière.**
+
+
+# N’ABANDONNEZ JAMAIS
+
+L’homme qui traverse la structure brisée devient un combattant, le combat doit continuer jusqu’à la fin car s’il abandonne, la lueur d’espoir est perdue et s’il continue d’essayer, l’espoir lui atteint le sommet d’or de son succès.
 
 
 
