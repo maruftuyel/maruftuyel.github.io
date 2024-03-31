@@ -118,7 +118,7 @@ Ensuite, nous devrions écouter des locuteurs natifs et de l'audio français.
 
 # N’ABANDONNEZ JAMAIS
 
-L’homme qui traverse la structure brisée devient un combattant, le combat doit continuer jusqu’à la fin car s’il abandonne, la lueur d’espoir est perdue et s’il continue d’essayer, l’espoir lui atteint le sommet d’or de son succès.
+**L’homme qui traverse la structure brisée devient un combattant, le combat doit continuer jusqu’à la fin car s’il abandonne, la lueur d’espoir est perdue et s’il continue d’essayer, l’espoir lui atteint le sommet d’or de son succès.**
 
 
 
