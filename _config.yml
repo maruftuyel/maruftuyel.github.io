@@ -26,8 +26,8 @@ twitter_username: maruftuyel
 _username:  maruftuyel 
 
 # Build settings
-# theme: minima
-theme: jekyll-theme-hacker
+theme: minima
+# theme: jekyll-theme-hacker
 # remote_theme: pages-themes/hacker@v0.2.0
 
 # theme: jekyll-theme-hacker
