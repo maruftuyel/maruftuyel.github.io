@@ -14,8 +14,7 @@ Markdown
 
 ![Greta](./images/done.jpg)
 
-**Greta m’a complètement changée. Greta m’a ouvert les yeux et m’a rendue solide. Greta m’a donné d’énormes défis. J’ai déjà pris des chanllanges. J’ai essayé d’être quelque chose de désespéré.**
-
+**Greta m’a complètement changée. Greta m’a ouvert les yeux et m’a rendue forte. Greta m’a donné d’énormes défis. J’ai déjà relevé des défis. J’ai essayé d’être quelque chose de désespéré**
 
 
 # Le Logiciel
