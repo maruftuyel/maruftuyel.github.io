@@ -10,7 +10,7 @@ Markdown
 [Link](https://www.markdownguide.org/cheat-sheet/)
 
 
-# 3 IDIOTS CHEZ GRETA
+# 3 ÉTOILES CHEZ GRETA
 
 ![Greta](./images/done.jpg)
 
