@@ -12,6 +12,14 @@ Markdown
 **৩ টা জিনিস নিয়ে প্রতিটা মানুষ উদ্বিগ্ন থাকেঃ জীবন, জীবিকা ও সম্ভ্রম**
 
 
+
+# 3 ÉTOILES CHEZ GRETA
+
+![Greta](./images/done.jpg)
+
+**Greta m’a complètement changée. Greta m’a ouvert les yeux et m’a rendue forte. Greta m’a donné d’énormes défis. J’ai déjà relevé des défis. J’ai essayé d’être quelque chose de désespéré**
+
+
 # La vie et Logiciel 
 **La vie et l’industrie du logiciel sont à la fois dynamiques et en constante évolution. À bien des égards, ils se reflètent l’un l’autre**
 
@@ -19,16 +27,6 @@ Markdown
 
 **Life and the software industry are both dynamic and constantly evolving. In many ways, they mirror each other**
 
-
-
-
-
-
-# 3 ÉTOILES CHEZ GRETA
-
-![Greta](./images/done.jpg)
-
-**Greta m’a complètement changée. Greta m’a ouvert les yeux et m’a rendue forte. Greta m’a donné d’énormes défis. J’ai déjà relevé des défis. J’ai essayé d’être quelque chose de désespéré**
 
 
 # Le Logiciel
