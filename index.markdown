@@ -160,6 +160,15 @@ Ensuite, nous devrions écouter des locuteurs natifs et de l'audio français.
 > Passez à l’action : En fin de compte, pour devenir une personne dynamique, il faut passer à l’action. Fixez des intentions et suivez-les avec un effort et une détermination constants.
 
 
+# Pratique De La Grammaire
+        
+
+**Révisez et pratiquez les conjugaisons des verbes, en particulier au présent, au passé et au futur.
+Apprenez et utilisez des expressions françaises courantes et des expressions idiomatiques.**
+
+**Travaillez sur la structure des phrases, y compris l'ordre des mots et l'accord des adjectifs avec les noms.**
+
+
 
 
 
