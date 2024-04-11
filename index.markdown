@@ -11,6 +11,19 @@ Markdown
 
 **৩ টা জিনিস নিয়ে প্রতিটা মানুষ উদ্বিগ্ন থাকেঃ জীবন, জীবিকা ও সম্ভ্রম**
 
+
+# La vie et Logiciel 
+**La vie et l’industrie du logiciel sont à la fois dynamiques et en constante évolution. À bien des égards, ils se reflètent l’un l’autre**
+
+# Life and Software Industry 
+
+**Life and the software industry are both dynamic and constantly evolving. In many ways, they mirror each other**
+
+
+
+
+
+
 # 3 ÉTOILES CHEZ GRETA
 
 ![Greta](./images/done.jpg)
