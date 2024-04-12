@@ -168,6 +168,10 @@ Apprenez et utilisez des expressions françaises courantes et des expressions id
 
 **Travaillez sur la structure des phrases, y compris l'ordre des mots et l'accord des adjectifs avec les noms.**
 
+# SCIENCE ET TECHNOLOGIE
+**Les physiciens franchissent une étape majeure vers la création d’une horloge nucléaire**
+
+[title](https://www.sciencenews.org/)
 
 
 
