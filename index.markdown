@@ -176,7 +176,8 @@ Apprenez et utilisez des expressions françaises courantes et des expressions id
 ![alt text](image.jpg)
 
 
-**SCIENCE HAS RESEARCH AND ANALYSIS BUT IT DOESN'T FIT IT'S VALUES CAUSE SCIENCE NEVER DEAL WITH VALUES. YOU MAY MISUSE IT TO DESTROY A NATION OR TO IMPOSE A WAR AGANIST YOUR COMPITITORS. THAT'S A SOLID ROOT CAUSE OF DESTRUCTIVE SIDE OF SCIENCE. AT LAST, MANKIND NEEDS SCIENCE BUT HUMAN HAS TAKEN IT AS A  GUN AGAINST HIS TARGET.**
+# Sciences appliquées
+**Applied Sciences est une revue internationale, évaluée par des pairs et en libre accès sur tous les aspects des sciences naturelles appliquées, publiée bimensuellement en ligne par MDPI.**
 
 
 
