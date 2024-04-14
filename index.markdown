@@ -171,7 +171,7 @@ Apprenez et utilisez des expressions françaises courantes et des expressions id
 # SCIENCE ET TECHNOLOGIE
 **Les physiciens franchissent une étape majeure vers la création d’une horloge nucléaire**
 
-[link](https://www.sciencenews.org/)
+[https://www.sciencenews.org/](https://www.sciencenews.org/)
 
 ![alt text](image.jpg)
 
