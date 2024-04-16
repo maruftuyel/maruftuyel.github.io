@@ -18,3 +18,5 @@ At Greta i was Student of French Language. French Language was completely unknow
 C’est ma devise de parler français aussi couramment. Je peux dire : Je suis en train !
 
 
+Kämpa på
+
