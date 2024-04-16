@@ -179,7 +179,9 @@ Apprenez et utilisez des expressions françaises courantes et des expressions id
 # Sciences appliquées
 **Applied Sciences est une revue internationale, évaluée par des pairs et en libre accès sur tous les aspects des sciences naturelles appliquées, publiée bimensuellement en ligne par MDPI.**
 
+# Définition du Logiciel.
 
+**Certainement! « Logiciel » fait référence à un ensemble d’instructions, de données ou de programmes qui permettent à un ordinateur d’effectuer des tâches ou des fonctions spécifiques. Il englobe un large éventail d’applications, des systèmes d’exploitation et des outils de productivité aux jeux et aux applications mobiles**
 
 
 
