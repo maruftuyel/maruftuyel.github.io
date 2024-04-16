@@ -202,22 +202,22 @@ Apprenez et utilisez des expressions françaises courantes et des expressions id
 # How to Build Your Brain
 **Certainly! Building and maintaining a healthy brain involves a combination of lifestyle choices and mental exercises. Here are some effective strategies to boost your brainpower:**
 
-1. Meditation: Regular meditation can slow brain aging and enhance information processing1.
+1. Meditation: Regular meditation can slow brain aging and enhance information processing.
 Visualization: Practice forming vivid mental images to organize information and make better decisions1.
 2. Playing Games:
-Card games and board games are not only fun but also beneficial for brain health. They’re linked to a decreased risk of cognitive impairment in older adults1.
+Card games and board games are not only fun but also beneficial for brain health. They’re linked to a decreased risk of cognitive impairment in older adults.
 Memory card games challenge short-term memory and pattern recognition.
 Completing jigsaw puzzles activates various cognitive functions, including perception, mental rotation, working memory, and reasoning.
-3. Crossword Puzzles: Engaging in crossword puzzles may delay memory decline in people with preclinical dementia1.
+3. Crossword Puzzles: Engaging in crossword puzzles may delay memory decline in people with preclinical dementia.
 4. Learning New Skills: Continuously learning new skills keeps your brain active and adaptable.
 Increasing Vocabulary: Expanding your vocabulary stimulates cognitive function.
 5. Learning a Language: Learning a new language enhances brain connectivity and cognitive abilities.
 6. Listening to Music: Music can positively impact mood and cognition.
 7. Playing Musical Instruments: Playing an instrument engages multiple brain areas.
-8. Engaging Hobbies: Pursue hobbies that challenge your mind, such as painting, writing, or playing an instrument2.
+8. Engaging Hobbies: Pursue hobbies that challenge your mind, such as painting, writing, or playing an instrument.
 9. Regular Exercise: Physical activity improves blood flow to the brain and supports overall brain health.
-10. Tai Chi: This mind-body practice combines movement, meditation, and deep breathing, benefiting both body and brain1.
-11. Quality Sleep: Ensure you get enough rest, as sleep is crucial for brain function and memory consolidation1.<br>
+10. Tai Chi: This mind-body practice combines movement, meditation, and deep breathing, benefiting both body and brain.
+11. Quality Sleep: Ensure you get enough rest, as sleep is crucial for brain function and memory consolidation.<br>
 
 **Remember, a holistic approach that includes a balanced diet, exercise, and mental stimulation contributes to a healthier brain**
 
