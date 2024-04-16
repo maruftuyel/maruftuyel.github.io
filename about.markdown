@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-# Il y a trois choses qui préoccupent chaque personne : la vie, les moyens de subsistance et la dignité
+ **Il y a trois choses qui préoccupent chaque personne : la vie, les moyens de subsistance et la dignité**
 
 # Live and Life could be similar for sometimes
 
