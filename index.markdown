@@ -186,7 +186,17 @@ Apprenez et utilisez des expressions françaises courantes et des expressions id
 
 # CLOUD COMPUTING
 
+[https://en.wikipedia.org/wiki/Cloud_computing](https://en.wikipedia.org/wiki/Cloud_computing)
+
+
 **Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each of which is a data center. Cloud computing relies on sharing of resources to achieve coherence and typically uses a pay-as-you-go model, which can help in reducing capital expenses but may also lead to unexpected operating expenses for users**
+
+1. Computer System Resources 
+2. Cloud Storage
+3. Computing Power
+4. Data Center
+5. Operating Expenses
+6. Capital Expenses
 
 
 
