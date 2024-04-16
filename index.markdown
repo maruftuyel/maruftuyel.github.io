@@ -217,7 +217,8 @@ Increasing Vocabulary: Expanding your vocabulary stimulates cognitive function.
 8. Engaging Hobbies: Pursue hobbies that challenge your mind, such as painting, writing, or playing an instrument2.
 9. Regular Exercise: Physical activity improves blood flow to the brain and supports overall brain health.
 10. Tai Chi: This mind-body practice combines movement, meditation, and deep breathing, benefiting both body and brain1.
-11. Quality Sleep: Ensure you get enough rest, as sleep is crucial for brain function and memory consolidation1.
+11. Quality Sleep: Ensure you get enough rest, as sleep is crucial for brain function and memory consolidation1.<br>
+
 **Remember, a holistic approach that includes a balanced diet, exercise, and mental stimulation contributes to a healthier brain**
 
 
