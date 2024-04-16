@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-# মানুষ মোটাদাগে ৩ টা জিনিস নিয়ে উদ্বিগ্ন থাকেঃ জীবন, সম্ভ্রম এবং জীবিকা
+# Il y a trois choses qui préoccupent chaque personne : la vie, les moyens de subsistance et la dignité
 
 # Live and Life could be similar for sometimes
 
