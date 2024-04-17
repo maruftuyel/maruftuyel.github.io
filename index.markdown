@@ -79,8 +79,10 @@ La formation est axée sur l’apprentissage de méthodes et d’outils rigoureu
 
 
 
-**Numbered list  (Liste des numéros)**
 
+
+**NUMBERED LIST (LISTE DES NUMÉROS)**
+<br>
 1. Un 
 2. Deux 
 3. Trois
