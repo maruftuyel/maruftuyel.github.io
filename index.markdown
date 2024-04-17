@@ -135,7 +135,7 @@ Ensuite, nous devrions écouter des locuteurs natifs et de l'audio français.
 
 
 # DYNAMISME
-> Devenir une personne dynamique implique de cultiver activement divers aspects de vous-même pour vous adapter à différentes situations, grandir personnellement et professionnellement et vous engager plus efficacement dans le monde qui vous entoure. Voici quelques mesures que vous pouvez prendre pour devenir plus dynamique :
+**Devenir une personne dynamique implique de cultiver activement divers aspects de vous-même pour vous adapter à différentes situations, grandir personnellement et professionnellement et vous engager plus efficacement dans le monde qui vous entoure. Voici quelques mesures que vous pouvez prendre pour devenir plus dynamique :**
 
 **1. Apprentissage continu :** 
 
