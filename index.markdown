@@ -178,7 +178,7 @@ Apprenez et utilisez des expressions françaises courantes et des expressions id
 ![alt text](image.Screenshot_20240412_172206_... U)
 
 
-**Sciences appliquées**
+**Sciences appliquées** <br>
 **Applied Sciences est une revue internationale, évaluée par des pairs et en libre accès sur tous les aspects des sciences naturelles appliquées, publiée bimensuellement en ligne par MDPI.**
 
 **Définition du Logiciel.**
