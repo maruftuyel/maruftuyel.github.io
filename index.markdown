@@ -157,7 +157,7 @@ Ensuite, nous devrions écouter des locuteurs natifs et de l'audio français.
 9. Sollicitez des commentaires : 
 
 
-10. Passez à l’action : 
+**10. Passez à l’action :**
 
 
 
