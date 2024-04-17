@@ -245,6 +245,15 @@ Durov, dont la fortune est estimée par Forbes à 15,5 milliards de dollars, a d
 
 
 
+**LE BONHEUR**<br>
+**Les gens recherchent le bonheur, mais à mon avis, le bonheur de l’esprit est le vrai bonheur parce que la douleur de l’esprit est la dépression et les gens ne peuvent jamais être heureux avec la dépression, même cette dépression fait souffrir les gens de malades mentaux permanents en même temps, ce qui est très pénible**
+**La méditation est la grande soluiton de la dépression**
+
+
+
+
+
+
 
 
 
