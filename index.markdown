@@ -229,7 +229,7 @@ Increasing Vocabulary: Expanding your vocabulary stimulates cognitive function.
 
 
 
-# Telegram se propage comme un feu de forêt
+**Telegram se propage comme un feu de forêt**
 Durov, dont la fortune est estimée par Forbes à 15,5 milliards de dollars, a déclaré que certains gouvernements avaient cherché à faire pression sur lui, mais que l’application, qui compte désormais 900 millions d’utilisateurs actifs, devrait rester une « plate-forme neutre » et non un « acteur de la géopolitique » <br>
 
 - Telegram doit être libre, ne prenez pas parti - Durov
