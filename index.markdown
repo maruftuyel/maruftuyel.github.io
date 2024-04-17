@@ -29,7 +29,7 @@ Markdown
 
 
 
-**Le Logiciel**
+**Le Logiciel**<br>
 Le programme Software Science and Technology (STL) vise à former des spécialistes en développement logiciel, avec des bases solides en langages de programmation et en méthodes algorithmiques.
 
 Il s’adresse aux étudiants intéressés à la fois par les aspects fondamentaux et technologiques de l’informatique.
