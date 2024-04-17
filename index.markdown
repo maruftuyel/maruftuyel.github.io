@@ -20,16 +20,16 @@ Markdown
 **Greta m’a complètement changée. Greta m’a ouvert les yeux et m’a rendue forte. Greta m’a donné d’énormes défis. J’ai déjà relevé des défis. J’ai essayé d’être quelque chose de désespéré**
 
 
-# La vie et Logiciel 
+**La vie et Logiciel**
 **La vie et l’industrie du logiciel sont à la fois dynamiques et en constante évolution. À bien des égards, ils se reflètent l’un l’autre**
 
-# Life and Software Industry 
+ **Life and Software Industry**
 
 **Life and the software industry are both dynamic and constantly evolving. In many ways, they mirror each other**
 
 
 
-# Le Logiciel
+**Le Logiciel**
 Le programme Software Science and Technology (STL) vise à former des spécialistes en développement logiciel, avec des bases solides en langages de programmation et en méthodes algorithmiques.
 
 Il s’adresse aux étudiants intéressés à la fois par les aspects fondamentaux et technologiques de l’informatique.
@@ -43,7 +43,7 @@ Il s’adresse aux étudiants intéressés à la fois par les aspects fondamenta
 
 
 
-# La formation d'un logiciel
+**La formation d'un logiciel**
 
 La formation est axée sur l’apprentissage de méthodes et d’outils rigoureux pour la conception et le développement de logiciels complexes, ainsi que pour la modélisation et l’analyse de problèmes algorithmiques issus de divers domaines d’application.
 
@@ -55,7 +55,7 @@ La formation est axée sur l’apprentissage de méthodes et d’outils rigoureu
 
 **বাংলাদেশের ভবিষ্যত প্রজন্ম জেনে নেবে কিভাবে আইটি খাতে অগ্রসর হতে হয় তবে আমার জানামতে বাংলাদেশ আইটি ও কম্পিউটার সাইন্স এর উপড় চরম গুরুত্ব দিয়েছে তা বাংলাদেশের আলোকিত সিদ্বান্ত এবং এটা মূল্য়ায়ন করার সময় অতি নিকটে**
 
-## En Suède
+**En Suède**
 ![](./images/MOV.mp4)
 
 <video width="720" height="400" controls="">
@@ -69,7 +69,7 @@ La formation est axée sur l’apprentissage de méthodes et d’outils rigoureu
 
 
 
-# List
+
 **OBJECTIVES OF SOFTWARE**
 
 - Software reliability and algorithms.
@@ -119,16 +119,17 @@ Ensuite, nous devrions écouter des locuteurs natifs et de l'audio français.
 
 
 
-# En 2011, dans mon pays.
+**En 2011, dans mon pays.**
 ![Comment on imagee](./images/fourstar.jpg)
 
 
-# Compétences requises:
+
+**COMPÉTENCES REQUISES:**
 
 **Dieu a donné de nombreuses bénédictions à l’homme, parmi lesquelles la technique de création de compétences est la meilleure, il n’y a personne de plus puissant que cela parce que la chose qui est utile est la compétence et cette compétence peut construire une meilleure carrière.**
 
 
-# N’ABANDONNEZ JAMAIS
+**N’ABANDONNEZ JAMAIS**
 
 **L’homme qui traverse la structure brisée devient un combattant, le combat doit continuer jusqu’à la fin car s’il abandonne, la lueur d’espoir est perdue et s’il continue d’essayer, l’espoir lui atteint le sommet d’or de son succès.**
 
@@ -161,7 +162,7 @@ Ensuite, nous devrions écouter des locuteurs natifs et de l'audio français.
 
 
 
-# Pratique De La Grammaire
+**PRATIQUE DE LA GRAMMAIRE**
         
 
 **Révisez et pratiquez les conjugaisons des verbes, en particulier au présent, au passé et au futur.
@@ -169,7 +170,7 @@ Apprenez et utilisez des expressions françaises courantes et des expressions id
 
 **Travaillez sur la structure des phrases, y compris l'ordre des mots et l'accord des adjectifs avec les noms.**
 
-# SCIENCE ET TECHNOLOGIE
+**SCIENCE ET TECHNOLOGIE**
 **Les physiciens franchissent une étape majeure vers la création d’une horloge nucléaire**
 
 [https://www.sciencenews.org/](https://www.sciencenews.org/)
@@ -177,15 +178,15 @@ Apprenez et utilisez des expressions françaises courantes et des expressions id
 ![alt text](image.Screenshot_20240412_172206_... U)
 
 
-# Sciences appliquées
+**Sciences appliquées**
 **Applied Sciences est une revue internationale, évaluée par des pairs et en libre accès sur tous les aspects des sciences naturelles appliquées, publiée bimensuellement en ligne par MDPI.**
 
-# Définition du Logiciel.
+**Définition du Logiciel.**
 
 **Certainement! « Logiciel » fait référence à un ensemble d’instructions, de données ou de programmes qui permettent à un ordinateur d’effectuer des tâches ou des fonctions spécifiques. Il englobe un large éventail d’applications, des systèmes d’exploitation et des outils de productivité aux jeux et aux applications mobiles**
 
 
-# CLOUD COMPUTING
+**CLOUD COMPUTING**
 
 [https://en.wikipedia.org/wiki/Cloud_computing](https://en.wikipedia.org/wiki/Cloud_computing)
 
@@ -200,7 +201,7 @@ Apprenez et utilisez des expressions françaises courantes et des expressions id
 6. Capital Expenses
 
 
-# How to Build Your Brain
+**How to Build Your Brain**
 **Certainly! Building and maintaining a healthy brain involves a combination of lifestyle choices and mental exercises. Here are some effective strategies to boost your brainpower:**
 
 1. Meditation: Regular meditation can slow brain aging and enhance information processing.
