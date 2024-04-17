@@ -20,7 +20,7 @@ Markdown
 **Greta m’a complètement changée. Greta m’a ouvert les yeux et m’a rendue forte. Greta m’a donné d’énormes défis. J’ai déjà relevé des défis. J’ai essayé d’être quelque chose de désespéré**
 
 
-**La vie et Logiciel**
+**La vie et Logiciel**<br>
 **La vie et l’industrie du logiciel sont à la fois dynamiques et en constante évolution. À bien des égards, ils se reflètent l’un l’autre**
 
  **Life and Software Industry**
