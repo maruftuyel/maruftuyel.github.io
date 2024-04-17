@@ -137,24 +137,24 @@ Ensuite, nous devrions écouter des locuteurs natifs et de l'audio français.
 # DYNAMISME
 > Devenir une personne dynamique implique de cultiver activement divers aspects de vous-même pour vous adapter à différentes situations, grandir personnellement et professionnellement et vous engager plus efficacement dans le monde qui vous entoure. Voici quelques mesures que vous pouvez prendre pour devenir plus dynamique :
 
-1. Apprentissage continu : 
+**1. Apprentissage continu :** 
 
-2. Accueillez le changement : 
+**2. Accueillez le changement :** 
 
-3. Fixez-vous des objectifs : 
+**3. Fixez-vous des objectifs :**
 
-4. Sortez de votre zone de confort : 
+**4. Sortez de votre zone de confort :**
 
-5. Développer des compétences interpersonnelles : 
+**5. Développer des compétences interpersonnelles :** 
 
-6. Restez curieux : 
+**6. Restez curieux :**
 
-7. Adaptabilité : 
+**7. Adaptabilité :** 
 
-8. Maintenir l’équilibre : 
+**8. Maintenir l’équilibre :**
 
 
-9. Sollicitez des commentaires : 
+**9. Sollicitez des commentaires :** 
 
 
 **10. Passez à l’action :**
