@@ -119,7 +119,7 @@ Ensuite, nous devrions écouter des locuteurs natifs et de l'audio français.
 
 
 
-**En 2011, dans mon pays.**
+**En 2011, dans mon pays.**<br>
 ![Comment on imagee](./images/fourstar.jpg)
 
 
