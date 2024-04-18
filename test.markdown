@@ -8,6 +8,10 @@ layout: page
 Go [home](/)
 
 
+
+**Lazy people are innovative**
+
+
 To be desparative someone needs to be productive. And mainly needs to focus on FUTURE. Be productive and focus on Future. These are core materials to apply for solid success. 
 
 # LES DÉBUTS DE LA CULTURE DU CAFÉ
