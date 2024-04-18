@@ -4,7 +4,7 @@ title: Web
 permalink: /web/
 ---
 
-# LEARN RUBY 
+## LEARN RUBY 
 
 *WITH THE EDGECASE RUBY KOANS* 
 
