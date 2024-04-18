@@ -5,6 +5,10 @@ permalink: /about/
 ---
 
 
+ 
+ 
+ > **Ne vous inquiétez pas, vous êtes gagnant!** 
+ 
  **Il y a trois choses qui préoccupent chaque personne : la vie, les moyens de subsistance et la dignité**
 
  
