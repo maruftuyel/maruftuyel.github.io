@@ -30,6 +30,11 @@ To be desparative someone needs to be productive. And mainly needs to focus on F
 **Les gens désirent le patrimoine, mais jusqu’à présent, je sais que le patrimoine dérive du travail de quelqu’un et je le définis comme une compétence. Les compétences sont l’héritage ultime, même si vous pouvez différer de votre explication dans les détails, mais votre définition est censée être solide et digne, mais pas seulement une connerie, m’avez-vous compris?**
 
 
+> De nos jours, les grandes idées sont beaucoup plus valables que nos projets de perte. 
+
+
+
+
 
 
 
