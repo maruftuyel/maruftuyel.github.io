@@ -4,7 +4,7 @@ title: Web
 permalink: /web/
 ---
 
-## LEARN RUBY 
+### LEARN RUBY 
 
 *WITH THE EDGECASE RUBY KOANS* 
 
@@ -21,7 +21,7 @@ With the koans, you will need to run the tests and see it fail (red), make the t
 The very first time you run it you will see the following output:
 
 
-## The Koans are broken
+### The Koans are broken
 The koans are broken out into areas by file, hashes are covered in about_hashes.rb, modules are introduced in about_modules.rb, etc. They are presented in order in the path_to_enlightenment.rb file.
 
 Each koan builds up your knowledge of Ruby and builds upon itself. It will stop at the first place you need to correct.
