@@ -11,8 +11,8 @@ permalink: /web/
 **মাস্টার্স করে ‘টাইলস মিস্ত্রি’ হব না কেন?**
 [https://www.prothomalo.com/opinion/column/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A6%B8-%E0%A6%AE%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%B9%E0%A6%AC-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8](https://www.prothomalo.com/opinion/column/%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A7%8D%E0%A6%9F%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B8-%E0%A6%95%E0%A6%B0%E0%A7%87-%E0%A6%9F%E0%A6%BE%E0%A6%87%E0%A6%B2%E0%A6%B8-%E0%A6%AE%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%B9%E0%A6%AC-%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A7%87%E0%A6%A8)
 
-**মেধা পাচার**
-[https://youtu.be/Yy6Q0krYp0U?si=G9eGOEdGHLcobT-o](https://youtu.be/Yy6Q0krYp0U?si=G9eGOEdGHLcobT-o)
+**মেধা পাচার** <br>
+[https://youtu.be/Yy6Q0krYp0U?si=G9eGOEdGHLcobT-o](https://youtu.be/Yy6Q0krYp0U?si=G9eGOEdGHLcobT-o) <br>
 [https://youtu.be/dGQCu8LCHc4?si=ddmbizCVx3GVuxFr](https://youtu.be/dGQCu8LCHc4?si=ddmbizCVx3GVuxFr)
 
 
