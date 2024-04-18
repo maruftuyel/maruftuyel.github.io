@@ -203,7 +203,8 @@ Apprenez et utilisez des expressions françaises courantes et des expressions id
 6. Capital Expenses
 
 
-**How to Build Your Brain** <br>
+**How to Build Your Brain** 
+<br>
 **Certainly! Building and maintaining a healthy brain involves a combination of lifestyle choices and mental exercises. Here are some effective strategies to boost your brainpower:**
 
 1. Meditation: Regular meditation can slow brain aging and enhance information processing.
