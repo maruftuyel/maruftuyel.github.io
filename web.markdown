@@ -28,3 +28,21 @@ Each koan builds up your knowledge of Ruby and builds upon itself. It will stop 
 
 Some koans simply need to have the correct answer substituted for an incorrect one. Some, however, require you to supply your own answer. If you see the method __ (a double underscore) listed, it is a hint to you to supply your own code in order to make it work correctly.
 
+
+# CYBERSECURITY 
+
+Cybersecurity refers to the practice of protecting computer systems, networks, and data from unauthorized access, cyberattacks, and other security breaches. It encompasses a range of technologies, processes, and practices designed to safeguard digital information and assets from threats.
+
+> Cybersecurity measures aim to ensure the confidentiality, integrity, and availability of information and resources in the face of various cyber threats, including:
+ 
+MALWARE, PHISHING, DENIAL OF SERVICE ATTACKS, DATA BREACHES, INSIDER THREATS. 
+
+
+- Deliver visibility of the entire IT estate
+- Provide 24/7 monitoring and drive collaboration with other IT teams
+- Improve operational efficiency, reduce incident response times, and streamline processes
+- Enable AI for continuous improvement
+- Address skills gaps, freeing security analysts to do more impactful and interesting work for greater job satisfaction
+- Discover how you can accelerate automation in security operations and vulnerability Management to attain a higher level of automation maturity in a short time.
+
+
