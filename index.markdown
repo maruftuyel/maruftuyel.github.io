@@ -275,6 +275,15 @@ Durov, dont la fortune est estimée par Forbes à 15,5 milliards de dollars, a d
 > প্রযুক্তির অনেক ভালো দিক আছে এমনকি খারাপ দিকও আছে যা আমাদের জন্য অনেক বিব্রতকর কারন যারা প্রযুক্তি পেয়েছে তারা নৈতিকতাটা প্রযুক্তির সাথে যোগ করতে পারে নি আর এটাই মানবজাতির জন্য সবচাইতে বড় বিপর্যয় কারন আপনার হাতে থাকা প্রযুক্তি দিয়ে যদি অন্য মানুষের ক্ষতি করেন তাহলে এই প্রযুক্তির কোন মূল্য নেই আর এই আধুনিক বিশ্বে মূল্যহীন এই প্রযুক্তিই হচ্ছে মানবসভ্যতা ধ্বংসের মূল কারন **
 
 
+**MYSQL** <br>
+[https://en.wikipedia.org/wiki/MySQL](https://en.wikipedia.org/wiki/MySQL)  <br>
+
+**MySQL is an open-source relational database management system (RDBMS)**  <br>
+
+
+MySQL is free and open-source software under the terms of the GNU General Public License, and is also available under a variety of proprietary licenses. MySQL was owned and sponsored by the Swedish company MySQL AB, which was bought by Sun Microsystems (now Oracle Corporation).In 2010, when Oracle acquired Sun, Widenius forked the open-source MySQL project to create MariaDB.
+<br>
+
 
 
 
