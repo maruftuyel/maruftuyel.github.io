@@ -177,7 +177,7 @@ Apprenez et utilisez des expressions françaises courantes et des expressions id
 
 [https://www.sciencenews.org/](https://www.sciencenews.org/)
 
-![alt text](image.Screenshot_20240412_172206_... U)
+![alt text](images/file.jpg)
 
 
 **Sciences appliquées** <br>
