@@ -287,6 +287,16 @@ MySQL is free and open-source software under the terms of the GNU General Public
 <br>
 
 
+> **সাহসীগণের প্রতি ভাগ্য প্রসন্ন হয়**
+
+
+*Applied Life could be harder than we think even that could be much more impressive to us when we calculate about our carrier for our livelihood. Yes we may run our vision to have such kind of success for a long run.That's a great arena to have such kind of grateness*
+ 
+
+
+
+
+
 
 
 
