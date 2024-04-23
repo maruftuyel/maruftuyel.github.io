@@ -356,14 +356,3 @@ MySQL is free and open-source software under the terms of the GNU General Public
 
 
 
-## For Testing
-
-One line
-Second line attached
-
-One line  
-Second line underneath (  )
-
-One Line
-
-Second Line
