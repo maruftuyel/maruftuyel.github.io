@@ -291,6 +291,38 @@ MySQL is free and open-source software under the terms of the GNU General Public
 
 
 *Applied Life could be harder than we think even that could be much more impressive to us when we calculate about our carrier for our livelihood. Yes we may run our vision to have such kind of success for a long run.That's a great arena to have such kind of grateness*
+
+
+
+
+
+**ÊTRE UNE PERSONNE TRÈS INFLUENTE**
+1. Soyez proactif
+2. Fixez-vous un objectif
+3. Priorité
+4. Pensez gagnant-gagnant
+5. Cherchez d’abord à comprendre, puis à être compris
+6. Synergie
+7. Affûtez la scie. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
 
 
