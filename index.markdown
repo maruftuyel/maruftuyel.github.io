@@ -306,8 +306,11 @@ MySQL is free and open-source software under the terms of the GNU General Public
 7. Affûtez la scie. 
 
 
+
+
+
 **FORMATION**  
-For a good carrier we neeed particular formation basis on your skill or basis on your workforce. Even you need Certificate after you finish your formation. With your Certificat you may jump on your applied Carrier.You can utulise your Experience on your job sector. You may launch a handsome job and you may gain brilliant Salary too! Thus, you may fulfill your Dream. I like that! 
+Pour un bon transporteur, nous avons besoin d’une formation particulière basée sur vos compétences ou sur la base de votre main-d’œuvre. Même vous avez besoin d’un certificat après avoir terminé votre formation. Avec votre certificat, vous pouvez sauter sur votre transporteur postulé. Vous pouvez utiliser votre expérience dans votre secteur d’emploi. Vous pouvez lancer un beau travail et vous pouvez aussi gagner un salaire brillant ! Ainsi, vous pouvez réaliser votre rêve. J’aime ça! 
 
 
 
