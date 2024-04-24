@@ -296,7 +296,7 @@ MySQL is free and open-source software under the terms of the GNU General Public
 
 
 
-**ÊTRE UNE PERSONNE TRÈS INFLUENTE**
+> **ÊTRE UNE PERSONNE TRÈS INFLUENTE**
 1. Soyez proactif
 2. Fixez-vous un objectif
 3. Priorité
