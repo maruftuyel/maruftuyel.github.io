@@ -306,6 +306,10 @@ MySQL is free and open-source software under the terms of the GNU General Public
 7. Affûtez la scie. 
 
 
+**FORMATION**
+For a good carrier we neeed particular formation basis on your skill or basis on your workforce. Even you need Certificate after you finish your formation. With your Certificat you may jump on your applied Carrier.You can utulise your Experience on your job sector. You may launch a handsome job and you may gain brilliant Salary too! Thus, you may fulfill your Dream. I like that! 
+
+
 
 
 
