@@ -309,7 +309,7 @@ MySQL is free and open-source software under the terms of the GNU General Public
 
 
 
-**LA FORMATION EST OBLIGATOIRE**
+**LA FORMATION EST OBLIGATOIRE**<br>
 **Pour un bon Carrière, nous avons besoin d’une formation particulière basée sur vos compétences ou sur la base de votre main-d’œuvre. Même vous avez besoin d’un certificat après avoir terminé votre formation. Avec votre certificat, vous pouvez sauter sur votre Carrière postulé. Vous pouvez utiliser votre expérience dans votre secteur d’emploi. Vous pouvez lancer un beau travail et vous pouvez aussi gagner un salaire brillant ! Ainsi, vous pouvez réaliser votre rêve. J’aime ça!** <br>
 
 
