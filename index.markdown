@@ -319,6 +319,8 @@ MySQL is free and open-source software under the terms of the GNU General Public
 Une génération peut survivre sans tensoin si elle possède les compétences nécessaires. La compétence est la « MAISON DE PUISSANCE » du monde moderne. Ainsi, notre objectif serait impressionnant et louable, mais en même temps il serait aussi diplomatique !**
 <br>
 
+> **পরিশ্রমী মানুষ স্রষ্টার বন্ধু**
+<br>
 
 
 
