@@ -309,14 +309,14 @@ MySQL is free and open-source software under the terms of the GNU General Public
 
 
 
-**FORMATION**<br>
-Pour un bon Carrière, nous avons besoin d’une formation particulière basée sur vos compétences ou sur la base de votre main-d’œuvre. Même vous avez besoin d’un certificat après avoir terminé votre formation. Avec votre certificat, vous pouvez sauter sur votre Carrière postulé. Vous pouvez utiliser votre expérience dans votre secteur d’emploi. Vous pouvez lancer un beau travail et vous pouvez aussi gagner un salaire brillant ! Ainsi, vous pouvez réaliser votre rêve. J’aime ça! <br>
+**LA FORMATION EST OBLIGATOIRE**
+**Pour un bon Carrière, nous avons besoin d’une formation particulière basée sur vos compétences ou sur la base de votre main-d’œuvre. Même vous avez besoin d’un certificat après avoir terminé votre formation. Avec votre certificat, vous pouvez sauter sur votre Carrière postulé. Vous pouvez utiliser votre expérience dans votre secteur d’emploi. Vous pouvez lancer un beau travail et vous pouvez aussi gagner un salaire brillant ! Ainsi, vous pouvez réaliser votre rêve. J’aime ça!** <br>
 
 
 
 
-Parce que votre travail ne mourra jamais et que vos compétences ne disparaîtront jamais. C'est l'accord équitable avec vos compétences. Chaque compétence est complètement diversifiée et significative pour nous et pour la prochaine génération aussi !
-Une génération peut survivre sans tensoin si elle possède les compétences nécessaires. La compétence est la « MAISON DE PUISSANCE » du monde moderne. Ainsi, notre objectif serait impressionnant et louable, mais en même temps il serait aussi diplomatique !
+**Parce que votre travail ne mourra jamais et que vos compétences ne disparaîtront jamais. C'est l'accord équitable avec vos compétences. Chaque compétence est complètement diversifiée et significative pour nous et pour la prochaine génération aussi !
+Une génération peut survivre sans tensoin si elle possède les compétences nécessaires. La compétence est la « MAISON DE PUISSANCE » du monde moderne. Ainsi, notre objectif serait impressionnant et louable, mais en même temps il serait aussi diplomatique !**
 <br>
 
 
