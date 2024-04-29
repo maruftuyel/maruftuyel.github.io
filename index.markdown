@@ -302,12 +302,7 @@ MySQL is free and open-source software under the terms of the GNU General Public
 Une génération peut survivre sans tensoin si elle possède les compétences nécessaires. La compétence est la « MAISON DE PUISSANCE » du monde moderne. Ainsi, notre objectif serait impressionnant et louable, mais en même temps il serait aussi diplomatique !**
 <br>
 
-> **পরিশ্রমী মানুষ স্রষ্টার বন্ধু**
-<br>
 
-স্রষ্টা এই দুনিয়াটাকে এতই সুন্দর করে বানিয়েছে যে তার মধ্যেই আমাদেরকে টিকে থাকতে হবে অন্যথায় আমাদের অস্তিত্বই থাকবে না আর এই জন্যই কিন্তু আমাদের অনেক স্কিল দরকার<br>
-কাজের বাজারে এই স্কিলই একমাত্র কথা বলে আর অন্য কিছুই কাজে আসে না কিন্তু <br> বিধাতা দয়া করে তুমি আমার সহায় হও আমিন <br>
-> **FOR ME "SKILL" IS MY FAIR DEAL**  
 
 **স্বপ্নের আলো মিট মিট করে জ্বলে**  
 এমন একাটা দিন আসবে যখন আমি আমার অবস্থার উপড় অত্যন্ত সন্তুষ্ট হবো আর তখন আমি বলতে পারবো যে আমারও বলার মতো একটা গল্প আছে কারন এত দিন শুধুই আমি ভয়ঙ্কর পরিশ্রম করেছি আর মানসিক অস্থিরতায় ভোগেছি তার জন্যই কিন্তু এত দিন মানসিকভাবে কিছুটা এলোমেলো ছিলাম
