@@ -12,6 +12,8 @@ Markdown
 **৩ টা জিনিস নিয়ে প্রতিটা মানুষ উদ্বিগ্ন থাকেঃ জীবন, জীবিকা ও সম্ভ্রম**
 
 
+**A Greta, j'ai épousé ma femme nommée Liudmyla. C'est ma femme merdique.**
+
 
 # 3 ÉTOILES CHEZ GRETA
 
