@@ -7,12 +7,12 @@ layout: home
 
 Markdown
 
-[Link](https://www.markdownguide.org/cheat-sheet/)
+[Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 **৩ টা জিনিস নিয়ে প্রতিটা মানুষ উদ্বিগ্ন থাকেঃ জীবন, জীবিকা ও সম্ভ্রম**
 
 
-`AI is running so first but we should run our skills to stand our success as impressive one & we know our life is very much relevent to job, skills and carrer`
+`Artificial intelligence  is a set of theories and techniques aimed at creating machines capable of simulating human intelligence`
 
 
 # 3 ÉTOILES CHEZ GRETA
