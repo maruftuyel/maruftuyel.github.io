@@ -15,6 +15,8 @@ Markdown
 `Artificial intelligence  is a set of theories and techniques aimed at creating machines capable of simulating human intelligence`
 
 
+**CHANGEMENT**
+
 # 3 ÉTOILES CHEZ GRETA
 
 ![Greta](./images/done.jpg)
