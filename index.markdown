@@ -324,6 +324,10 @@ SUCCESS IS MENDATORY IF YOU EFFORT YOUR ATTEMPT
 **Un homme peut être professionnel, mais un homme ne peut pas être plus que professionnel, pas question !**
 
 
+**le combat doit être continué jusqu'au bout, car si vous abandonnez, la lueur de l'espoir est perdue et si vous continuez à essayer, l'espoir vous mènera à la flamme dorée de votre succès.**
+
+
+
 
 
 
