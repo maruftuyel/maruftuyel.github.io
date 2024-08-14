@@ -321,7 +321,7 @@ SUCCESS IS MENDATORY IF YOU EFFORT YOUR ATTEMPT
 
 
 
-
+**Un homme peut être professionnel, mais un homme ne peut pas être plus que professionnel, pas question !**
 
 
 
